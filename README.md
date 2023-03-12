@@ -3,7 +3,7 @@ Demo Project
 
 ## Softwares used. 
 1. Intellij,
-2. Java 11
+2. Java 8
 3. Postman
 4. Spring boot framework
 5. Maven
